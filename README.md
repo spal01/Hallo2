@@ -1,2 +1,2 @@
 # Hallo2
-Practice repoitory
+I am Sumanta Pal.Just i am starting the use of git-hub.  
